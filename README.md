@@ -23,4 +23,4 @@ Click the image above or [here](https://youtu.be/MhMgpOTUHik) to watch the demo!
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/composting-game.git
+   git clone https://github.com/Youssefbenarbiya/Composting-Gamified.git
