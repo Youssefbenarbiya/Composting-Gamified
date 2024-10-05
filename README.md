@@ -11,9 +11,9 @@ This project is part of an internship where I worked on gamifying the composting
 ## Demo Video
 Check out the demo video showcasing the first mission of the game on YouTube:
 
-[![Composting Process Game Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Composting Process Game Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/MhMgpOTUHik)
 
-Click the image above or [here](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) to watch the demo!
+Click the image above or [here](https://youtu.be/MhMgpOTUHik) to watch the demo!
 
 ## Technologies Used
 - **Unreal Engine**: Game development platform.
